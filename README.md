@@ -12,7 +12,7 @@ This repository focuses on fault classification for ball bearings in an inductio
   - **model_evaluation.py:** Script for evaluating the performance of the fault classification model.
 
 ## Presentation
-For a comprehensive overview of the project, check out the [presentation slides](link-to-presentation).
+For a comprehensive overview of the project, check out the [presentation slides](https://docs.google.com/presentation/d/1CjM23a1P3IPDxfbONPhqMbTU8N5laeLc/edit?usp=sharing&ouid=107495369300635909849&rtpof=true&sd=true).
 
 Feel free to explore, adapt, or contribute to this project! Let's advance the understanding of fault detection and enhance the efficiency of motor systems. 🤖⚙️
 
